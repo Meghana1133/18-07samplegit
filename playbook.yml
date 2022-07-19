@@ -1,6 +1,6 @@
 ---
 
-   name: Create cloud instances
+   name: Create cloud instance
 
    hosts: localhost
 
